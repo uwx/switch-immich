@@ -46,3 +46,7 @@ The tool will:
 ## License
 
 AGPL
+
+## Credits
+
+Thanks to [@nta](https://github.com/nta) for helping me with this.
